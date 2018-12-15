@@ -3,7 +3,7 @@
 #-------------------------------------------------------
 # Paste from developer.amazon.com below
 #-------------------------------------------------------
-
+# add line
 # This is the name given to your device or mobile app in the Amazon developer portal. To look this up, navigate to https://developer.amazon.com/edw/home.html. It may be labeled Device Type ID.
 ProductID=YOUR_PRODUCT_ID_HERE
 
